@@ -2,7 +2,7 @@
 ![Coded by humans](https://img.shields.io/badge/Coded%20by%20humans-100%25-blue)
 
 <p align="center">
-   <img  width="30%" src="./assets/git_to_the_future.png" alt="Git to the Future"/>
+   <img  width="50%" src="./assets/git_to_the_future.png" alt="Git to the Future"/>
 </p>
 
 # Rewrite your history with git
